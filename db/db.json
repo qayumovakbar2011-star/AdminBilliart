@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "bb29",
+      "name": "Akbar",
+      "age": "15"
+    },
+    {
+      "id": "ecc0"
+    },
+    {
+      "id": "9858"
+    },
+    {
+      "id": "f4f1"
+    },
+    {
+      "id": "27e9"
+    },
+    {
+      "id": "4df9"
+    },
+    {
+      "id": "a814"
+    }
+  ],
+  "orders": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
